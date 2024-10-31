@@ -1,0 +1,1621 @@
+# Copyright (C) 2022 TMD Software Pvt. Ltd.
+# This file is distributed under the same license as the Multipurpose Point Of Sale For Woocommerce.
+msgid ""
+msgstr ""
+"Project-Id-Version: Multipurpose Point Of Sale For Woocommerce 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/multipurpose-point-Of-sale-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-30T08:16:11+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: tmdpos\n"
+
+#. Plugin Name
+msgid "Multipurpose Point Of Sale For Woocommerce"
+msgstr ""
+
+#. Plugin Description
+msgid "Multipurpose Point Of Sale For Woocommerce."
+msgstr ""
+
+#. Plugin Author 
+msgid "TMD Software Pvt. Ltd."
+msgstr ""
+
+#. Plugin Author URI
+msgid "http://themultimediadesigner.com/"
+msgstr ""
+
+#: tmd-pos.php:49
+msgid "Go Pro"
+msgstr ""
+
+#: tmd-pos.php:60
+msgid "WooCommerce"
+msgstr ""
+
+#:include/header:14
+msgid "Menu"
+msgstr ""
+
+#:include/header:22
+msgid "Reload"
+msgstr ""
+
+#:include/header:38
+msgid "Log Out"
+msgstr ""
+
+#:include/header:54
+msgid "POS Setting"
+msgstr ""
+
+#:include/header:58
+msgid "Customers"
+msgstr ""
+
+#:include/header:60
+msgid "Products"
+msgstr ""
+
+#:include/header:61
+msgid "Sale Report"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:13
+msgid "General"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:15
+msgid "Checkout"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:17
+msgid "Inventory Barcode"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:19
+msgid "Stock"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:21
+msgid "Invoice"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:23
+msgid "Payment"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-admin-view.php:36
+msgid "Pos Screen"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:16
+msgid "Image"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:17
+msgid "Name"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:18
+msgid "Category"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:19
+msgid "ID"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:20
+msgid "SKU"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:21
+msgid "Action"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:55
+msgid "Generate Barcode"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-barcode-inventory.php:56
+msgid "Buy PRO"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-checkout.php:19
+msgid "Tmd Pos Order Status"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-general.php:26
+msgid "Select Category"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-general.php:39
+msgid "Select multiple categories to display categories on Pos screen"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-general.php:44
+msgid "Pos Layout"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-general.php:48
+msgid "Layout One"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-general.php:53
+msgid "Layout Two"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-general.php:55
+msgid "Buy PRO"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-general.php:60
+msgid "Layout Three"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-general.php:62
+msgid "Buy PRO"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-general.php:67
+msgid "Select Pos screen Layout"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:22
+msgid "Logo"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:30
+msgid "Logo size"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:38
+msgid "Reciept Formats"
+msgstr ""
+
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:41
+msgid "Reciept Print"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:42
+msgid "Full Size"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:56
+msgid "Show Store Logo"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:58
+msgid "Disable"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:63
+msgid "Show Store Name"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:70
+msgid "Show Store Address"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:75
+msgid "Show Order Date & Time"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:81
+msgid "Show Invoice Number"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:85
+msgid "Show Cashier Name"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:90
+msgid "Show Customer Name"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:95
+msgid "Show Shipping Address"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-invoice.php:99
+msgid "Show Payment Mode"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:104
+msgid "Show Change"
+msgstr ""
+
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:109
+msgid "Show Extra Information (like TIN No. ST No"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:114
+msgid "Invoice Text"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:115
+msgid "Thankyou For Shopping With Us"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:50
+msgid "Reciept Size ex:50"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-invoice.php:65
+#:include/pos-admin-page/tmd-pos-invoice.php:71
+#:include/pos-admin-page/tmd-pos-invoice.php:76
+#:include/pos-admin-page/tmd-pos-invoice.php:81
+#:include/pos-admin-page/tmd-pos-invoice.php:86
+#:include/pos-admin-page/tmd-pos-invoice.php:91
+#:include/pos-admin-page/tmd-pos-invoice.php:96
+#:include/pos-admin-page/tmd-pos-invoice.php:100
+#:include/pos-admin-page/tmd-pos-invoice.php:105
+msgid "Disable"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-payment.php:20
+msgid "Payment Gateways"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-payment.php:29
+msgid "Gateway"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-payment.php:30
+msgid "Default"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-payment.php:31
+msgid "POS Pay ID"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-stock.php:18
+msgid "Show Out Of Stock Warning"
+msgstr ""
+
+
+#:include/pos-admin-page/tmd-pos-stock.php:20
+msgid "Enable"
+msgstr ""
+
+#:include/pos-admin-page/tmd-pos-stock.php:21
+msgid "Disable"
+msgstr ""
+
+
+#:include/pos-template/access-404.php:16
+msgid "Unauthorized access"
+msgstr ""
+
+#:include/pos-template/access-404.php:17
+msgid "You dont have permission to access this page"
+msgstr ""
+
+
+#:include/pos-template/access-404.php:19
+msgid "Back To Home"
+msgstr ""
+
+
+
+#:include/pos-template/pos-layout-one.php:46
+msgid "Back To Home"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:53
+msgid "Add To Cart"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:58
+msgid "Disabled Add To Cart"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:64
+msgid "Select Option"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:112
+msgid "Choose an option"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:203
+msgid "Load More"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:230
+msgid "Buy PRO to unlock all features"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:230
+msgid "Clear Cart"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:237
+msgid "Product"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:238
+msgid "Price"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:239
+msgid "Qty"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:240
+msgid "Total"
+msgstr ""
+
+
+#:include/pos-template/pos-layout-one.php:257
+msgid "Buy PRO to unlock all features"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:257
+msgid "Hold"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:258
+msgid "Buy PRO to unlock all features"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:258
+msgid "Apply Coupon"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:264
+msgid "Subtotal"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:268
+msgid "VAT"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:277
+msgid "Buy PRO to unlock all features"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:277
+msgid "Hold Orders"
+msgstr ""
+
+#:include/pos-template/pos-layout-one.php:279
+msgid "Pay"
+msgstr ""
+
+#:include/pos-template/pos-login.php:14
+msgid "Login"
+msgstr ""
+
+#:include/pos-template/pos-login.php:18
+msgid "Username"
+msgstr ""
+
+#:include/pos-template/pos-login.php:19
+msgid "Enter Username"
+msgstr ""
+
+#:include/pos-template/pos-login.php:21
+msgid "Password"
+msgstr ""
+
+#:include/pos-template/pos-login.php:22
+msgid "Enter Password"
+msgstr ""
+
+#:include/pos-template/pos-login.php:26
+msgid "Remember Me"
+msgstr ""
+
+#:include/pos-template/pos-login.php:29
+msgid "Login"
+msgstr ""
+
+#:include/pos-template/pos-login.php:32
+msgid "Return To Home"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:22
+msgid "Add Customer"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:26
+msgid "Name"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:33
+msgid "Email"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:28
+msgid "Enter Name"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:35
+msgid "Enter Email"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:40
+msgid "Phone"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:42
+msgid "Enter Phone Number"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:47
+msgid "Address"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:49
+msgid "Enter Address"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:53
+msgid "Address 2"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-add-new-customer.php:55
+msgid "Enter Address 2"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-add-new-customer.php:59
+msgid "City"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:61
+msgid "Enter City"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:65
+msgid "Postcode"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:72
+msgid "Country"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:67
+msgid "Enter Postcode"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:75
+msgid "Select Country"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:85
+msgid "State"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:88
+msgid "Select State"
+msgstr ""
+
+#:include/pos-template/tmd-pos-add-new-customer.php:88
+msgid "Save"
+msgstr ""
+
+#:include/pos-template/tmd-pos-notice-modal.php:22
+msgid "close"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:33
+msgid "Select Customer"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:34
+msgid "Guest"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:34
+msgid "Guest Customer"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:40
+msgid "OR"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:43
+msgid "Select Customer"
+msgstr ""
+
+
+#:include/pos-template/class-tmd-pos-checkout.php:67
+msgid "Add Customer"
+msgstr ""
+
+
+
+#:include/pos-template/class-tmd-pos-checkout.php:76
+msgid "Payment Method"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:93
+msgid "Order Status"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:111
+msgid "Total"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:116
+msgid "Shipping Cost"
+msgstr ""
+
+#:include/pos-template/class-tmd-pos-checkout.php:123
+msgid "Discount"
+msgstr ""
+
+
+#:include/pos-template/class-tmd-pos-checkout.php:129
+msgid "Paid Amount"
+msgstr ""
+
+
+#:include/pos-template/class-tmd-pos-checkout.php:134
+msgid "Change"
+msgstr ""
+
+
+
+#:include/pos-template/class-tmd-pos-checkout.php:148
+msgid "Order Now"
+msgstr ""
+
+
+#:include/pos-template/class-tmd-pos-gateway.php:20
+msgid "Card"
+msgstr ""
+
+
+#:include/pos-template/class-tmd-pos-gateway.php:53
+msgid "Cash"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-hold-orderlist.php:53
+msgid "Hold On Id"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-hold-orderlist.php:26
+msgid "Hold Reason"
+msgstr ""
+
+#:include/pos-template/tmd-pos-hold-orderlist.php:27
+msgid "Action"
+msgstr ""
+
+#:include/pos-template/tmd-pos-hold-orderlist.php:40
+msgid "Add To Cart"
+msgstr ""
+
+#:include/pos-template/tmd-pos-hold-orderlist.php:52
+msgid "Ther is no hold order found in the list"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:13
+msgid "Order List"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:18
+msgid "Order ID"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:19
+msgid "Customer"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:20
+msgid "Status"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:21
+msgid "Total"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:22
+msgid "Date Added"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:23
+msgid "Date Modified"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:24
+msgid "Action"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:72
+msgid "Customer List"
+msgstr ""
+
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:87
+msgid "Customer Name"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:88
+msgid "email"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:89
+msgid "Address"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:124
+msgid "Product Img"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:125
+msgid "Name"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:126
+msgid "Quantity"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:127
+msgid "Product Category"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:170
+msgid "Sales Report"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:172
+msgid "Print"
+msgstr ""
+
+
+#:include/pos-template/tmd-pos-menu-pages.php:180
+msgid "Order ID"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:181
+msgid "Date"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:182
+msgid "Payment Mode"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:183
+msgid "VAT"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:184
+msgid "Total"
+msgstr ""
+
+#:include/pos-template/tmd-pos-menu-pages.php:224
+msgid "Grand Total"
+msgstr ""
+
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:13
+msgid "Get our PRO plugin to unlock all Fetuers"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:15
+msgid "Buy PRO"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:20
+msgid "Features"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:21
+msgid "Pro"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:22
+msgid "Open"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:28
+msgid "Pos Dashbord"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:29
+#:include/tmd-pos-pro/tmd-pos-pro.php:30
+#:include/tmd-pos-pro/tmd-pos-pro.php:34
+#:include/tmd-pos-pro/tmd-pos-pro.php:35
+#:include/tmd-pos-pro/tmd-pos-pro.php:39
+#:include/tmd-pos-pro/tmd-pos-pro.php:44
+#:include/tmd-pos-pro/tmd-pos-pro.php:49
+#:include/tmd-pos-pro/tmd-pos-pro.php:54
+#:include/tmd-pos-pro/tmd-pos-pro.php:55
+#:include/tmd-pos-pro/tmd-pos-pro.php:59
+#:include/tmd-pos-pro/tmd-pos-pro.php:64
+#:include/tmd-pos-pro/tmd-pos-pro.php:65
+#:include/tmd-pos-pro/tmd-pos-pro.php:72
+#:include/tmd-pos-pro/tmd-pos-pro.php:77
+#:include/tmd-pos-pro/tmd-pos-pro.php:82
+#:include/tmd-pos-pro/tmd-pos-pro.php:87
+#:include/tmd-pos-pro/tmd-pos-pro.php:92
+#:include/tmd-pos-pro/tmd-pos-pro.php:97
+#:include/tmd-pos-pro/tmd-pos-pro.php:101
+#:include/tmd-pos-pro/tmd-pos-pro.php:107
+#:include/tmd-pos-pro/tmd-pos-pro.php:112
+#:include/tmd-pos-pro/tmd-pos-pro.php:117
+#:include/tmd-pos-pro/tmd-pos-pro.php:122
+#:include/tmd-pos-pro/tmd-pos-pro.php:127
+#:include/tmd-pos-pro/tmd-pos-pro.php:132
+#:include/tmd-pos-pro/tmd-pos-pro.php:137
+#:include/tmd-pos-pro/tmd-pos-pro.php:142
+#:include/tmd-pos-pro/tmd-pos-pro.php:147
+#:include/tmd-pos-pro/tmd-pos-pro.php:152
+#:include/tmd-pos-pro/tmd-pos-pro.php:153
+#:include/tmd-pos-pro/tmd-pos-pro.php:157
+msgid "yes"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:33
+msgid "Pos Screen"
+msgstr ""
+
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:38
+msgid "Multiple Pos Screen"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:43
+msgid "Hold Orders"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:48
+msgid "Clear Cart"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:53
+msgid "Tmd Pos Order Status"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:58
+msgid "Inventory Barcode"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:63
+msgid "Show Out Of Stock Warning"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:68
+msgid "Invoice Setting"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:76
+msgid "Logo size"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:71
+msgid "Logo"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:81
+msgid "Reciept Formats"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:86
+msgid "Reciept Size"
+msgstr ""
+
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:91
+msgid "Show Store Logo"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:96
+msgid "Show Store Name"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:101
+msgid "Show Store Address"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:106
+msgid "Show Order Date & Time"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:111
+msgid "Show Invoice Number"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:116
+msgid "Show Cashier Name"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:121
+msgid "Show Customer Name"
+msgstr ""
+
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:131
+msgid "Show Payment Mode"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:136
+msgid "Show Change"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:141
+msgid "Show Extra Information (like TIN No. ST No"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:146
+msgid "Invoice Text"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:151
+msgid "Payment Gateways"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:156
+msgid "Payment Gateways"
+msgstr ""
+
+#:include/tmd-pos-pro/tmd-pos-pro.php:39
+#:include/tmd-pos-pro/tmd-pos-pro.php:44
+#:include/tmd-pos-pro/tmd-pos-pro.php:49
+#:include/tmd-pos-pro/tmd-pos-pro.php:59
+#:include/tmd-pos-pro/tmd-pos-pro.php:72
+#:include/tmd-pos-pro/tmd-pos-pro.php:77
+#:include/tmd-pos-pro/tmd-pos-pro.php:82
+#:include/tmd-pos-pro/tmd-pos-pro.php:87
+#:include/tmd-pos-pro/tmd-pos-pro.php:92
+#:include/tmd-pos-pro/tmd-pos-pro.php:97
+#:include/tmd-pos-pro/tmd-pos-pro.php:102
+#:include/tmd-pos-pro/tmd-pos-pro.php:107
+#:include/tmd-pos-pro/tmd-pos-pro.php:112
+#:include/tmd-pos-pro/tmd-pos-pro.php:117
+#:include/tmd-pos-pro/tmd-pos-pro.php:122
+#:include/tmd-pos-pro/tmd-pos-pro.php:127
+#:include/tmd-pos-pro/tmd-pos-pro.php:132
+#:include/tmd-pos-pro/tmd-pos-pro.php:142
+#:include/tmd-pos-pro/tmd-pos-pro.php:147
+#:include/tmd-pos-pro/tmd-pos-pro.php:151
+#:include/tmd-pos-pro/tmd-pos-pro.php:152
+#:include/tmd-pos-pro/tmd-pos-pro.php:156
+msgid "No"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:46
+msgid "Total Sales"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:54
+msgid "Payment Method Report"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:61
+msgid "Pos Users Report"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:66
+msgid "Recent Sales"
+msgstr ""
+
+
+#:include/tmd-pos-report/templates/general.php:69
+msgid "Invoice No"
+msgstr ""
+
+
+#:include/tmd-pos-report/templates/general.php:70
+msgid "Customer Name"
+msgstr ""
+
+
+#:include/tmd-pos-report/templates/general.php:71
+msgid "Cashiers Name"
+msgstr ""
+
+
+#:include/tmd-pos-report/templates/general.php:72
+msgid "Quantity"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:73
+msgid "Total"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:14
+msgid "Tmd Pos Report"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:18
+msgid "Main"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:20
+msgid "Dashboard"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:23
+msgid "Open POS"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:30
+msgid "Buy PRO"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:32
+msgid "Reports"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:34
+msgid "Product Sale Report"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:37
+msgid "Forecast Stock Report"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:40
+msgid "Day Book"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:46
+msgid "Buy PRO"
+msgstr ""
+
+#:include/tmd-pos-report/templates/general.php:48
+msgid "Payment Mode"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:17
+msgid "User ID"
+msgstr ""
+
+
+#:include/tmd-pos-user/tmd-pos-user.php:17
+msgid "Username"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:19
+msgid "Email"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:20
+msgid "Full Name"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:43
+msgid "User ID"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:44
+msgid "Username"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:45
+msgid "Email"
+msgstr ""
+
+#:include/tmd-pos-user/tmd-pos-user.php:46
+msgid "Full Name"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:393
+msgid "Out Of Stock"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:398
+msgid "Out Of Stock"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:403
+msgid "Select Option"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:447
+msgid "Choose an option"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:573
+msgid "Receipt"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:591
+msgid "TMD POS"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:620
+msgid "Address 1"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:624
+msgid "Address 2"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:628
+msgid "Store Location"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:635
+msgid "GST"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:649
+msgid "Date Added"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:654
+msgid "Invoice No"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:658
+msgid "Order Status"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:652
+msgid "Payment Method"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:667
+msgid "Cashier"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:678
+#:include/tmd-pos-ajax.php:673
+msgid "Customer"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:694
+msgid "Shipping address"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:701
+msgid "Phone"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:725
+msgid "Product"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:726
+msgid "Category"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:727
+msgid "Quantity"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:728
+msgid "Price"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:767
+msgid "Subtotal"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:773
+msgid "Shipping"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:780
+msgid "Discount"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:787
+msgid "Coupon"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:793
+msgid "Tax"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:798
+msgid "Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:805
+msgid "Change"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:969
+msgid "Contact Info"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:974
+msgid "Address 1"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:978
+msgid "Address 2"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:982
+msgid "Store Location"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:990
+msgid "GST"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1000
+msgid "Order details"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1005
+msgid "Date Added"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1011
+msgid "Invoice No"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1015
+msgid "Order Status"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:1019
+msgid "Payment Method"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:1024
+msgid "Cashier"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1031
+#:include/tmd-pos-ajax.php:1036
+msgid "Customer"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1051
+msgid "Shipping Address"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1059
+msgid "Phone"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1059
+msgid "Items"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1059
+msgid "Qty"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1059
+#:include/tmd-pos-ajax.php:1120
+msgid "Sub Total"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:1127
+msgid "Shipping"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1135
+msgid "Discount"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1142
+msgid "Tax"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1142
+msgid "Coupon"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1156
+msgid "Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1163
+msgid "Change"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1185
+msgid "Order Is Not Completed Please Complete Order First To Print Order Receipt"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1302
+msgid "Customer"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1310
+msgid "Order Status"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:1322
+msgid "Payment Status"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:1325
+msgid "Select Payment Status"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1334
+msgid "Comment"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1340
+msgid "Update Order"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1408
+msgid "Receipt"
+msgstr "
+
+#:include/tmd-pos-ajax.php:1422
+msgid "TMD POS"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1459
+msgid "Address 1"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1460
+msgid "Address 2"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1461
+msgid "Store Location "
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1467
+msgid "GST"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1479
+msgid "Date Added"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1483
+msgid "Date Added"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1486
+msgid "Order Status"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1489
+msgid "Payment Method"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:1493
+msgid "Cashier"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1498
+msgid "Customer"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1520
+msgid "Phone"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1542
+msgid "Product"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1543
+msgid "Category"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1544
+msgid "Quantity"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1545
+msgid "Price"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1589
+msgid "Subtotal"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1595
+msgid "Shipping"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1602
+msgid "Discount"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1609
+msgid "Coupon"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1615
+msgid "Tax"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1620
+msgid "Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1627
+msgid "Change"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1761
+msgid "Contact Info"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1766
+msgid "Address 1"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1767
+msgid "Address 2"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1768
+msgid "Store Location"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1774
+msgid "GST"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1783
+msgid "Order details"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1787
+msgid "Date Added"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1791
+msgid "Invoice No"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1794
+msgid "Order Status"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1797
+msgid "Payment Method"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1801
+msgid "Cashier"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1801
+msgid "Customer"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1822
+msgid "Shipping Address"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1829
+msgid "Phone"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1849
+msgid "Items"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1850
+msgid "Qty"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1851
+msgid "Sub Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1885
+msgid "Subtotal"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1892
+msgid "Shipping"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1900
+msgid "Discount"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1907
+msgid "Tax"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1914
+msgid "Coupon"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1921
+msgid "Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1928
+msgid "Change"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1943
+msgid "Order Is Not Completed Please Complete Order First To Print Order Receipt"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1971
+msgid "Product Name"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1972
+msgid "Quantity"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1987
+msgid "Update"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:1991
+msgid "No Product Found"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2087
+msgid "Unable to use this coupon code, Please try another coupon code"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2091
+#:include/tmd-pos-ajax.php:2095
+msgid "Please use Valid Coupon Code"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2099
+msgid "Please Spend Min"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2103
+msgid "Please Spend Max"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2107
+msgid "Please use Valid Coupon Code"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2111
+msgid "This Coupon is not valid for POS use"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2146
+msgid "Order hold successfully"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2150
+msgid "There is an error to hold order"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2202
+msgid "Date"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2203
+msgid "Order ID"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2204
+msgid "Payment Mode"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2205
+msgid "VAT"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2206
+msgid "Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2237
+msgid "Grand Total"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2308
+msgid "Out Of Stock"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2314
+msgid "Add To Cart"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2319
+msgid "Disabled Add To Cart"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2325
+msgid "Select Option"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2373
+msgid "Choose an option"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:2511
+msgid "Add To Cart"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2515
+msgid "Disabled Add To Cart"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2520
+msgid "Select Option"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2567
+msgid "Choose an option"
+msgstr ""
+
+#:include/tmd-pos-ajax.php:2695
+msgid "Invalid username or password"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:2698
+msgid "Login successful, redirecting"
+msgstr ""
+
+
+#:include/tmd-pos-ajax.php:2702
+msgid "Unable to login please try with different login id"
+msgstr ""
+
+
+
